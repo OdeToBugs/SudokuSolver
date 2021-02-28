@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/OdeToBugs/SudokuSolver">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Sudoku Solver</h3>
@@ -62,8 +62,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 ### Built With
