@@ -10,7 +10,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Version][version-shield]][version-url]
 
 
 
@@ -132,6 +132,6 @@ Project Link: [https://github.com/OdeToBugs/SudokuSolver](https://github.com/Ode
 [stars-url]: https://github.com/OdeToBugs/SudokuSolver/stargazers
 [issues-shield]: https://img.shields.io/github/issues/OdeToBugs/SudokuSolver.svg?style=for-the-badge
 [issues-url]: https://github.com/OdeToBugs/SudokuSolver/issues
-[license-shield]: https://img.shields.io/github/license/OdeToBugs/SudokuSolver.svg?style=for-the-badge
-[license-url]: https://github.com/OdeToBugs/SudokuSolver/blob/master/LICENSE.txt
+[version-shield]: https://img.shields.io/github/v/release/OdeToBugs/SudokuSolver.svg?style=for-the-badge
+[version-url]: https://github.com/OdeToBugs/SudokuSolver/releases
 
