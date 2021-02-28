@@ -48,12 +48,15 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <ul>
+          <li><a href="#with-anaconda">With Anaconda</a></li>
+          <li><a href="#with-pip">With Pip</a></li>
+        </ul>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -66,10 +69,11 @@
 
 ### Built With
 
-* Python
-  * pandas
-  * numpy
-  * urllib
+This project is built in Jupyter Notebook and uses the following Python libraries
+* [pandas](https://pandas.pydata.org/)
+* [numpy](https://numpy.org/)
+* [requests](https://requests.readthedocs.io/en/master/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 
 
 
@@ -81,11 +85,32 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
+  #### With Anaconda
+  
+  Open an anaconda prompt or anaconda powershell prompt
+  
+  1. Install pandas using 
+    ```sh
+    conda install pandas
+    ```
+  
+  2. Install numpy using 
+    ```sh
+    conda install numpy
+    ```
+
+  3. Install requests using 
+    ```sh
+    conda install -c anaconda requests
+    ```
+  
+  4. Install BeautifulSoup using
+    ```sh
+    conda install -c anaconda beautifulsoup4
+    ```
+  
+  #### With Pip
 
 
 <!-- USAGE EXAMPLES -->
